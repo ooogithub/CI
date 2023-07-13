@@ -1,0 +1,7 @@
+E:\Users\user\source\repos\WebApplication1\WebApplication1\obj\Docker\publish\WebApplication1.exe
+E:\Users\user\source\repos\WebApplication1\WebApplication1\obj\Docker\publish\appsettings.Development.json
+E:\Users\user\source\repos\WebApplication1\WebApplication1\obj\Docker\publish\appsettings.json
+E:\Users\user\source\repos\WebApplication1\WebApplication1\obj\Docker\publish\WebApplication1.dll
+E:\Users\user\source\repos\WebApplication1\WebApplication1\obj\Docker\publish\WebApplication1.deps.json
+E:\Users\user\source\repos\WebApplication1\WebApplication1\obj\Docker\publish\WebApplication1.runtimeconfig.json
+E:\Users\user\source\repos\WebApplication1\WebApplication1\obj\Docker\publish\WebApplication1.pdb
