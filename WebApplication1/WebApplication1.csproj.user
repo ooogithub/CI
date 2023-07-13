@@ -2,6 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>Docker</ActiveDebugProfile>
-    <NameOfLastUsedPublishProfile>E:\Users\user\source\repos\WebApplication1\WebApplication1\Properties\PublishProfiles\https___registry.hub.docker.com_r_williammok_webapplication1.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>E:\Users\user\source\repos\WebApplication1\WebApplication1\Properties\PublishProfiles\registry.hub.docker.com_william.mok%40oboson.com.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
